@@ -65,11 +65,6 @@ WindowsEvents
   <li>Customize the map visualization to show IP locations from log data.</li>
 </ol>
 
-<h2>Project Screenshot</h2>
-<p align="center">
-  <img src="https://imgur.com/YLw8vNp.png" alt="Powershell creating users" width="80%" />
-</p>
-
 <h2>Technologies Used</h2>
 <ul>
   <li><b>Microsoft Azure</b></li>
