@@ -64,7 +64,10 @@ WindowsEvents
   <li>Go to "Advanced Editor" and paste your map JSON (e.g., <code>map.json</code> file).</li>
   <li>Customize the map visualization to show IP locations from log data.</li>
 </ol>
-
+<h2>Project Screenshot</h2>
+<p align="center">
+<img src="https://github.com/sobersami/Azure-honeypot-lab/issues/1#issue-2993324510" alt="Azure Honeypot Screenshot" width="80%" />
+</p>
 <h2>Technologies Used</h2>
 <ul>
   <li><b>Microsoft Azure</b></li>
